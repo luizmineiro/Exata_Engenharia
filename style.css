@@ -26,3 +26,15 @@ img{
     width: 180px;
     height: auto;
 }
+.infos{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+.infos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+
+}
