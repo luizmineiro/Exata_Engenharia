@@ -36,5 +36,11 @@ img{
     text-align: center;
     width: 30%;
     vertical-align: top;
-
+}
+.infos h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+.descricao{
+    font-size: 19px;
 }
