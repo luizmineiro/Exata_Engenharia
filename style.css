@@ -59,3 +59,11 @@ img{
 .descricao{
     font-size: 19px;
 }
+footer{
+    text-align: center;
+    background: #000000;
+}
+footer img{
+    width: 400px;
+    height: auto;
+}
